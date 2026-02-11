@@ -114,13 +114,6 @@ with:
 image = "ghcr.io/nanotech-empa/aiidalab-for-teaching:main"
 ```
 
-### For Mac ARM64 (Apple Silicon)
-
-Use instead:
-
-```toml
-image = "ghcr.io/nanotech-empa/aiidalab-for-teaching:arm64"
-```
 
 Save and exit the editor (typically `vi`).
 
